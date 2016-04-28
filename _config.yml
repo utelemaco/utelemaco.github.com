@@ -3,7 +3,7 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
+rouge: pygments
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -12,7 +12,7 @@ title : Ulisses Telemaco
 tagline: Software Engineering
 author :
   name : Ulisses Telemaco
-  email : blah@email.test
+  email : ulisses.telemaco@gmail.com
   github : utelemaco
   twitter : utelemaco
   feedburner : feedname
